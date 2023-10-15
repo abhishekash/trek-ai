@@ -1,0 +1,3 @@
+*.lock
+/donot-commit
+cached*
